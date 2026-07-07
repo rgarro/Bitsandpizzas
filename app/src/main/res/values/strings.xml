@@ -2,4 +2,5 @@
     <string name="app_name">BitsAndPizzas</string>
     <string name="bodytext">Bits And Pizzas</string>
     <string name="create_order">Create Order</string>
+    <string name="create_order_title">Create Order</string>
 </resources>
