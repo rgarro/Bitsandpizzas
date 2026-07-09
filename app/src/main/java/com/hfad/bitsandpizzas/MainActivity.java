@@ -15,16 +15,6 @@ import android.support.v7.widget.Toolbar;
  *           ^^^^      ^^^
  * Sir Henry Morgan is de Lord of Talamanca
  * selling Brown sugar in the Cardiff market
- * he owned two shops, Cannabis Suggar crystalized
- * with natrural dry Ice from Irazu ...
- * Coffe from Cartago dryed with Cacao and Hemp
- * The Spaniards were stealing from Merchants
- * the King allowed the victims to start a vengeance as bussiness
- * recovering goods from enemy ships to collect indemnizations
- * Colombian ships built in Spain stole from Cardiff merchants
- * Cartagena peoples owing to Morgan paid ramson giving Talamanca
- *
- *
  *
  *
  *
